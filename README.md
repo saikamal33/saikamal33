@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Consolidative Project with all the skills that i learned**
 
-- 🌱 I’m currently learning **Kubernet,terraform,docker,AWS, Ansible,Shell scripting,Jenkins CI/CD Pipelines**
+- 🌱 I’m currently learning **Kubernet,terraform,docker,AWS, Ansible,Shell scripting,Jenkins CI/CD Pipelines,ArgoCD**
 
-- 👨‍💻 All of my projects are available at [My-projects-Files organisation](My-projects-Files organisation under my profile)
+- 👨‍💻 All of my projects are available at My-projects-Files organisation under my profile.
 
-- 📝 I regularly write articles on [New skills that I Learned](New skills that I Learned)
+- 📝 I regularly write articles on New skills that I Learned.
 
 - 📫 How to reach me **kamaleshsai33@gmail.com**
 
