@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/saikamal33/github-profile-trophy.git"><img src="https://github-profile-trophy.vercel.app/?username=saikamal33" alt="saikamal33" /></a> </p>
 
-- 🔭 I’m currently working on **Consolidative Project with Fully managed and automated CI/CD Pipelines**
+- 🔭 I’m currently working on **Cyber Security concepts**
 
 - 🌱 I’m currently Growing my skills and experience in Devops tools like **Kubernet,terraform,docker,AWS, Ansible,Shell scripting,Jenkins CI/CD Pipelines,ArgoCD**
 
