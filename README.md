@@ -11,7 +11,9 @@
 
 - 📝 I regularly write articles on New skills that I Learned.
 
-- 🖥️ Checkout my Portfolio website **http://myterraformportfolio.s3-website-us-east-1.amazonaws.com/**
+- 🖥️ Checkout my Portfolio website **https://saikamal33.github.io/Portfolio-website-using-terraform/**
+
+- Try my self hosted tetru game in your free time **https://saikamal33.github.io/mini-game/**
 
 - 📫 How to reach me **kamaleshsai33@gmail.com**
 
