@@ -26,5 +26,5 @@
 <h3 align="left">Certifications:</h3>
 <p align="left"><a href="https://www.credly.com/badges/a2c8a385-1d09-4d01-ac63-04684b29d441/linked_in?t=svih4u" target="blank"><img align="center" src="https://github.com/saikamal33/saikamal33/blob/main/aws-certified-cloud-practitioner.png" width="80" /></a><a href="https://www.credly.com/badges/7419ca77-30d9-4b21-b4db-cd2136c3fa38/public_url" target="blank"><img align="center" src="https://github.com/saikamal33/saikamal33/blob/main/aws-educate-introduction-to-generative-ai.png" height="80" width="80" /></a></a><a href="https://www.credly.com/badges/ae124861-8058-4006-b42c-1608f0583c00/public_url" target="blank"><img align="center" src="https://github.com/saikamal33/saikamal33/blob/main/devops-essentials.2.png" height="80" width="80" /></a></p>
 
-<h3 align="left"> Mini game: </h3>
+<h3 align="left"> My Mini game: </h3>
 <p align="left"><a href="https://saikamal33.github.io/mini-game/" target="blank"><img src="https://twemoji.maxcdn.com/v/latest/72x72/1f3ae.png" alt="🎮" width="100" height="100"></a></p>
